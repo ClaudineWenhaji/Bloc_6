@@ -1,5 +1,5 @@
 
-Bloc 6: Lead a project Title of the project: Medical desert
+Title of the project: Medical desert
 
 Objective: Identify regions of medical deserts in France and the main factors associated with that
 
@@ -12,7 +12,3 @@ APL information : https://www.data.gouv.fr/fr/reuses/vivez-vous-dans-un-desert-m
 
 Données obsoletes : Medecins : https://public.opendatasoft.com/explore/dataset/medecins/export/?flg=fr-fr
 
-
-
-
-# Bloc_6
