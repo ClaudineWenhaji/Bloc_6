@@ -5,6 +5,8 @@ Objective: Identify regions of medical deserts in France and the main factors as
 
 Link to the dashbord Carte de France avec densité APL: https://medical-deserts-project-b285d7806779.herokuapp.com/
 
+Link to Youtube: https://www.youtube.com/watch?v=76HqJDxE_9k
+
 Données
 
 INSEE Villes : https://www.data.gouv.fr/fr/datasets/data-insee-sur-les-communes/ 
